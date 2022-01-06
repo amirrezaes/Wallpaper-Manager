@@ -1,0 +1,15 @@
+{
+  "time": {
+    "morning": ["morning0.jpg", "morning1.jpg"],
+    "afternoon": ["afternoon0.jpg", "afternoon1.png"],
+    "evening": ["evening0.jpg", "evening1.png"],
+    "night": ["night0.jpg", "night1.png"]
+  },
+  "weather": {
+    "sunny": ["afternoon0.jpg"],
+    "cloudy": ["cloudy0.jpg"],
+    "windy": [],
+    "rainy": ["rainy0.jpg"],
+    "snowy": ["snowy0.jpg"]
+  }
+}
