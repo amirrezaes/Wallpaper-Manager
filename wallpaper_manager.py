@@ -6,7 +6,7 @@ import json
 import time
 import logging
 
-logging.basicConfig(filename='event.log', encoding='utf-8', level=logging.DEBUG)
+logging.basicConfig(filename='event.log', level=logging.DEBUG)
 
 config = json.load(open("config.json"))
 image_map = json.load(open("image_map.json"))
