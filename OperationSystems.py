@@ -1,9 +1,8 @@
 import os
-import uuid
 import ctypes # for windows api
 import subprocess  # for linux and mac
 
-path = os.path.dirname(os.path.abspath(__file__)) + r'\images'
+path = os.path.dirname(os.path.abspath(__file__)) + '/images'
 
 class Operationsystem:
     def __init__(self):
