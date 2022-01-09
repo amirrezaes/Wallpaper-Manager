@@ -5,6 +5,10 @@ you can add more pictures to *images* folder and associate them to a suitable ca
 
 currently only weather and time optiones supported which will change wallpaper based on wather condition and day part (proxies and vpns might give wrong results).
 
+make sure you have geocoder library installed:
+
+    pip install geocoder
+
 **only has been tested on Windows10 and Ubuntu 20, mac command have been integrated but not tested**
 
 **Todo:**
