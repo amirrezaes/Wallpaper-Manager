@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
 [![OS](https://img.shields.io/badge/OS-Windows%20|%20Linux%20|%20MacOS-orange.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An intelligent wallpaper management system that automatically changes your desktop background based on current weather conditions and time of day. The application uses real-time weather data and local time to select appropriate wallpapers from your collection.
 
